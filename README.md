@@ -12,5 +12,5 @@ Este projeto combina um suporte personalizado para tela, projetado para uso com 
 - **Impressão 3D**: Peças projetadas para serem facilmente impressas em 3D.
 - **Dashboard de Temperatura**: Monitore a temperatura do Raspberry Pi com um dashboard intuitivo.
 - **Instalação Rápida**: Instruções detalhadas para montagem do suporte e configuração do dashboard.
-- **Ajuste de Ângulo**: Permite ajustar o ângulo da tela para melhor visualização.
+
 
