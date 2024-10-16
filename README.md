@@ -4,7 +4,7 @@
 
 
 ## Descrição
-Este projeto combina um suporte personalizado para tela, projetado para uso com o #RetroPie em um #Raspberry Pi 3, com um #dashboard que monitora a temperatura da placa. Com impressão 3D e uma interface amigável, você pode não apenas exibir sua tela de forma elegante, mas também acompanhar o desempenho do seu sistema em tempo real.
+Este projeto combina um suporte personalizado para tela, projetado para uso com o RetroPie em um #Raspberry Pi 3, com um dashboard que monitora a temperatura da placa. Com impressão 3D e uma interface amigável, você pode não apenas exibir sua tela de forma elegante, mas também acompanhar o desempenho do seu sistema em tempo real.
 
 ## Recursos
 
