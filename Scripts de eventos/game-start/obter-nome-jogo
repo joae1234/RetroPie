@@ -1,0 +1,13 @@
+#!/bin/bash
+
+(
+SYSTEM_NAME=$1
+GAME_NAME=$2
+GAME_PATH=$3
+
+cd /home/pi/ubidots-scripts/mqtt-pubsub
+
+#cat /dev/shm/runcommand.info > infodejogo.txt
+
+echo "$GAME_NAME" > jogoaberto.txt
+)

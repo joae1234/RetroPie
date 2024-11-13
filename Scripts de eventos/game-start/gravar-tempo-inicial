@@ -1,0 +1,2 @@
+#!/bin/bash
+date +%s > /home/pi/ubidots-scripts/mqtt-pubsub/game-start-time.txt &

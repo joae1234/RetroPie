@@ -1,0 +1,13 @@
+#!/bin/bash
+
+(
+cd /home/pi/ubidots-scripts/mqtt-pubsub
+
+current=$(date +%s)
+start=$(cat game-start-time.txt)
+diff=$((current - start))
+
+nome=$(cat jogoaberto.txt)
+
+python3 mqtt_publisher.py -l nomedojogo -v "$diff" -c "$nome"
+) &
