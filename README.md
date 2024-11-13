@@ -16,7 +16,7 @@ Este projeto se trata de um microprocessador Raspberry Pi usando a distro RetroP
 - **Impressão 3D**: Peças projetadas para serem facilmente impressas em 3D;
 - **Placas de Circuito Impresso**: Usadas para acomodar e conectar os botões do controle;
 - **Dashboard Ubidots**: Monitore a temperatura e uso da CPU do Raspberry Pi com um dashboard intuitivo. Após finalizar uma sessão de jogo, também é possível ver o nome do jogo e quanto tempo durou a sessão;
-- **Instalação Rápida**: Instruções detalhadas para configuração do dashboard.
+- **Serviços MQTT**: Uso de programas Python para consumir e publicar mensagens MQTT para o Ubidots.
 
 ## Recursos
 - **Raspberry Pi 3B+**
